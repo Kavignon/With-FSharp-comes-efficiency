@@ -1,10 +1,5 @@
 # With F# comes efficiency
 
-
-https://leanpub.com/withfcomesefficiency
-
-# Machine Learning Projects for .Net Developers
-
 This repository is the companion to the book
 ["With F# comes efficiency"](https://leanpub.com/withfcomesefficiency).
 It contains the source code discussed in the book. If you have questions,
